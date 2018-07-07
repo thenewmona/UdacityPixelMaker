@@ -1,3 +1,15 @@
 A list of resources that I used for this project 
 
 https://www.youtube.com/watch?v=OtSiwcq67j4 -Pixel Art Maker Project Walkthrough - jQuery
+https://api.jquery.com/submit/
+
+*The event handler can be bound to the form:
+
+1 $( "#target" ).submit(function( event ) {
+2 alert( "Handler for .submit() called." );
+3  event.preventDefault();
+4 });*
+
+  
+ 
+
